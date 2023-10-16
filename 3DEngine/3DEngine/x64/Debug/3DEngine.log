@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\c++ programms\3DEngine\3DEngine\main.cpp(11,46): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+D:\c++ programms\3DEngine\3DEngine\main.cpp(11,39): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+D:\c++ programms\3DEngine\3DEngine\main.cpp(145,25): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+D:\c++ programms\3DEngine\3DEngine\main.cpp(145,56): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+D:\c++ programms\3DEngine\3DEngine\main.cpp(146,25): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+D:\c++ programms\3DEngine\3DEngine\main.cpp(146,56): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+D:\c++ programms\3DEngine\3DEngine\main.cpp(147,25): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+D:\c++ programms\3DEngine\3DEngine\main.cpp(147,56): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+  3DEngine.vcxproj -> D:\c++ programms\3DEngine\x64\Debug\3DEngine.exe
